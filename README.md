@@ -1,16 +1,22 @@
-### Hi there 👋
+## I am y0rgos
+Python & Smart Contract Developer
 
-<!--
-**y0rgos/y0rgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Smart Contract Dev Stack
+- Languages: [Python3](https://www.python.org/), [Solidity](https://github.com/ethereum/solidity)
+- IDEs/Editors: [Nvim](https://neovim.io/), [VSCode](https://code.visualstudio.com/), [Remix](https://remix-project.org/)
+- Frameworks: [Brownie](https://github.com/eth-brownie/brownie)
+- Other Tools: [Ganache(GUI&CLI)](https://trufflesuite.com/ganache/)
+- Libraries: [Chainlink](https://chain.link/), [OpenZeppelin](https://www.openzeppelin.com/)
+- Audits: [Slither](https://github.com/crytic/slither)
+- Blockchains: [EVM based](https://ethereum.org/en/developers/docs/evm/)
+- Wallets: [MetaMask](https://metamask.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+  - Greek (Native)
+  - English (B2 Certificate)
+
+## Contact Me
+ - [LinkedIn](https://www.linkedin.com/in/yor-gos-152599255/)
+ - [Twitter](https://twitter.com/y0rgoss)
