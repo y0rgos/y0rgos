@@ -1,6 +1,9 @@
 ## I am y0rgos
 Python & Smart Contract Developer
 
+Python: 4 Years Of Experience<br />
+Solidity: 1 Year Of Experience 
+
 ---
 
 ### Smart Contract Dev Stack
