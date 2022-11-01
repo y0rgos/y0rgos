@@ -10,13 +10,15 @@ Python & Smart Contract Developer
 - Other Tools: [Ganache(GUI&CLI)](https://trufflesuite.com/ganache/)
 - Libraries: [Chainlink](https://chain.link/), [OpenZeppelin](https://www.openzeppelin.com/)
 - Audits: [Slither](https://github.com/crytic/slither)
-- Blockchains: [EVM based](https://ethereum.org/en/developers/docs/evm/)
+- Blockchains: [EVM Based](https://ethereum.org/en/developers/docs/evm/)
 - Wallets: [MetaMask](https://metamask.io/)
+- Version Control Systems: [Git](https://git-scm.com/) & [Github](https://github.com/)
+- Operating Systems: [Manjaro(Arch Based Linux)](https://manjaro.org/)
 
 ### Languages
   - Greek (Native)
   - English (B2 Certificate)
 
 ## Contact Me
- - [LinkedIn](https://www.linkedin.com/in/yor-gos-152599255/)
+ - [LinkedIn](https://www.linkedin.com/in/y0rgos/)
  - [Twitter](https://twitter.com/y0rgoss)
