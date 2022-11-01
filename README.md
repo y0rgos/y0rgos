@@ -1,8 +1,24 @@
-## I am y0rgos
-Python & Smart Contract Developer
+## Hi, I am y0rgos
+Python & Smart Contract Developer<br />
+I am from Greece<br />
+Looking for a (remote) job
 
-Python: 4 Years Of Experience<br />
-Solidity: 1 Year Of Experience 
+---
+
+### Expert Skills:
+- Python (4 Years)
+### Good Skills:
+- Web3 Ecosystem & Smart Contract Development ([My Stack](#smart-contract-dev-stack)) (1 Year)
+- Backend Web Development (Django & Flask)
+
+### Basic Skills:
+- Go Language
+- Frontend Web Development (HTML/CSS/JS)
+- Game Development (Godot)
+- Networking
+- Cyber Security
+- Penetration Testing
+- Cryptography
 
 ---
 
@@ -18,9 +34,13 @@ Solidity: 1 Year Of Experience
 - Version Control Systems: [Git](https://git-scm.com/) & [Github](https://github.com/)
 - Operating Systems: [Manjaro(Arch Based Linux)](https://manjaro.org/)
 
+---
+
 ### Languages
   - Greek (Native)
   - English (B2 Certificate)
+
+---
 
 ## Contact Me
  - [LinkedIn](https://www.linkedin.com/in/y0rgos/)
