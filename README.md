@@ -1,7 +1,6 @@
 ## Hi, I am y0rgos
 Python & Smart Contract Developer<br />
 I am from Greece<br />
-Looking for a (remote) job
 
 ---
 
@@ -44,4 +43,4 @@ Looking for a (remote) job
 
 ## Contact Me
  - [LinkedIn](https://www.linkedin.com/in/y0rgos/)
- - [Twitter](https://twitter.com/y0rgoss)
+ - [Twitter](https://twitter.com/y0rgo5)
