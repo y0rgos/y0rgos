@@ -1,6 +1,5 @@
 ## Hi, I am y0rgos
 Python & Smart Contract Developer<br />
-I am from Greece<br />
 
 ---
 
